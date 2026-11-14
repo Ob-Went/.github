@@ -4,6 +4,7 @@
 
 <h1 align="center">Ob-Went</h1>
 
+<p align="center"><i>Gaming, kod i trochę szaleństwa.</i></p>
 
 ---
 
